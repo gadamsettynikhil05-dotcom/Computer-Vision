@@ -5,6 +5,6 @@ Week1 :
 Week2:
  task1: learn python fundamentals and make a bfs algorithm to find the shortest path between two squares on a 8x8 grid and use tkinter for the GUI representation  ( Time taken : 04 -07-2026 to 13-07-2026)
 Week3: 
- task1: learn about OpenCV and upload images in a queue using a python program and take photos by pressing the space bar and then exit the program ( time taken : 13-07-2026 to 17-07-2026 ) 
+ task1: learn about OpenCV and upload images in a queue using a python program and take photos by pressing the space bar and then exit the program plus timestamps are saved for each image ( time taken : 13-07-2026 to 17-07-2026 ) 
 
  
